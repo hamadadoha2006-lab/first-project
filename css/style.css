@@ -89,7 +89,7 @@ h6 {
 
 /* style header */
 header {
-    background-image: linear-gradient(rgba(0,0,0,0.65)), url(../imgs/imgs/IMG_3539.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.65)), url(../imgs/imgs/bg.jpg);
     background-position: start;
     background-repeat: no-repeat;
     background-size: cover;
